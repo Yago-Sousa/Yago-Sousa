@@ -1,6 +1,6 @@
 ### Bem vindo ao meu Github!
 
-Me chamo Yago Sousa, amante da tecnologia e estou ingressando no mundo da programação.
+Me chamo Yago Sousa, estudante de Análise e Desenvolvimento de Sistemas e amante da tecnologia.
 
 - :telescope: Atualmente estou estudando para ingressar na area de Testes.
 - :seedling: Aprendendo Automação Web.
