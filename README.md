@@ -4,7 +4,7 @@ Me chamo Yago Sousa, sou Analista de Sistemas e estou ingressando no mundo da pr
 
 - :telescope: Atualmente estou estudando para ingressar na area de Testes.
 - :seedling: Aprendendo Automação Web.
-- :people_with_bunny_ears_partying: Pretendo atuar na área de Automação Mobile. 
+- - :people_with_bunny_ears_partying: Pretendo atuar na área de Automação Mobile. 
 - :thinking: Estou sempre aberto para sugestões e parcerias!
 - :speech_balloon: Qualquer dúvida, ajudo no que estiver ao meu alcance.
 - :mailbox: Meus contatos:
