@@ -3,7 +3,7 @@
 Me chamo Yago Sousa, estudante de Análise e Desenvolvimento de Sistemas e amante da tecnologia.
 
 - :telescope: Atualmente estou estudando para ingressar na area de Testes.
-- :seedling: Aprendendo Automação Web.
+- :seedling: Aprendendo Automação Web & Mobile.
 - :thinking: Estou sempre aberto para sugestões e parcerias!
 - :speech_balloon: Qualquer dúvida, ajudo no que estiver ao meu alcance.
 - :mailbox: Meus contatos:
